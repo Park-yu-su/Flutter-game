@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551477491084",
+    "project_id": "rhythm-f31ec",
+    "storage_bucket": "rhythm-f31ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551477491084:android:6f06691ad93724b79ed2a9",
+        "android_client_info": {
+          "package_name": "com.example.game_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVwIrD4O801Y3wwLIaR9yY2x34kyWRwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
