@@ -286,23 +286,6 @@ class _LoginScreenState extends State<LoginScreen> {
                     fontFamily: "MaplestoryLight"),
               ),
             ),
-            const SizedBox(height: 15),
-            ElevatedButton(
-              onPressed: () {
-                showToastmessage(fToast, "test");
-                getDataFromFirestore('', '');
-              },
-              style: ElevatedButton.styleFrom(
-                fixedSize: Size(MediaQuery.of(context).size.width * 0.5, 25),
-              ),
-              child: const Text(
-                'Test',
-                style: TextStyle(
-                    fontSize: 15,
-                    color: Colors.black,
-                    fontFamily: "MaplestoryLight"),
-              ),
-            ),
           ],
         ),
       ),
